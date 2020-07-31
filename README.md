@@ -1,6 +1,12 @@
 ## Initial Page
 ![WhatsApp Image 2020-07-31 at 7 38 38 PM (2)](https://user-images.githubusercontent.com/53931980/89045679-87b47980-d369-11ea-932c-e291de16b9f0.jpeg)
 
+## After clicking Create New Tweet button, this modal appears
+![WhatsApp Image 2020-07-31 at 7 38 38 PM (1)](https://user-images.githubusercontent.com/53931980/89045948-f691d280-d369-11ea-9934-4592768aac83.jpeg)
+
+## After submitting the form to add a new tweet, the new tweet gets added to the DOM
+![WhatsApp Image 2020-07-31 at 7 38 38 PM (3)](https://user-images.githubusercontent.com/53931980/89045980-001b3a80-d36a-11ea-8f07-198d83f0cf37.jpeg)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
