@@ -1,0 +1,31 @@
+.contmain {
+    width: 60% !important;
+}
+.mod {
+    width: 40% !important;
+    height: 40% !important;
+}
+.head {
+    padding-left: 60px !important;
+}
+.twt {
+    height: 150px;
+    width: 150px;
+}
+.typo {
+    padding-top: 30px;
+}
+.topcont {
+    margin-top: 50px !important; 
+}
+.cont {
+    border-top: 4px solid #d6d6c2;
+    border-bottom: 4px solid #d6d6c2;
+    margin-top: 50px !important;
+    padding-top: 20px !important;
+    padding-bottom: 40px !important;
+    
+}
+.cont2 {
+    margin-top: 20px !important;
+}
