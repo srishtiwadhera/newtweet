@@ -1,3 +1,6 @@
+## Initial Page
+![WhatsApp Image 2020-07-31 at 7 38 38 PM (2)](https://user-images.githubusercontent.com/53931980/89045679-87b47980-d369-11ea-932c-e291de16b9f0.jpeg)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
